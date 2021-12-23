@@ -11,7 +11,7 @@
     <h2> Project $(title)</h2>
     <p><h2> Group $(group)</h2></p>
     <p><ul>
-    <c:forEach items = "$(persons)" var = "person">
+    <c:forEach items ="$(persons)" var = "person">
     	<li>$(person.firstName) $(person.lastName)</li>
     </c:forEach>	
     </ul></p>
