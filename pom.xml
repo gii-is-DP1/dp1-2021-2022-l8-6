@@ -32,6 +32,24 @@
 
     </properties>
 
+	<developers>
+		<developer>
+			<id>Raúl</id>
+			<name>Montalbán Martín</name>
+			<email>raumonmar1@alum.us.es</email>
+			<url>http://www.tmht.com/teo</url>
+			<roles>
+				<role>leader</role>
+			</roles>
+			<properties>
+				<picUrl>
+				https://pbs.twimg.com/profile_images/1306576618438221825/6WSVcAnb_400x400.jpg
+				</picUrl>
+			</properties>
+		</developer>
+	 </developers>
+	
+
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
         <dependency>
